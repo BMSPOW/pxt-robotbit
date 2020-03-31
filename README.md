@@ -1,6 +1,6 @@
-# robotbit
+# BMSPOW-motor
 
-Extension for Kittenbot Robotbit
+Extension for BMSPOW motor
 
 
 
@@ -14,5 +14,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-robotbit=github:Kittenbot/pxt-robotbit
+BMSPOW-motor=github:BMSPOW/pxt-robotbit
 ```
