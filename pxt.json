@@ -13,9 +13,6 @@
         "_locales/zh-cn/robotbit-strings.json",
         "_locales/zh-tw/robotbit-strings.json"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
     "public": true,
     "preferredEditor": "tsprj"
 }
