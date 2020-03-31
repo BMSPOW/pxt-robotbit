@@ -1,7 +1,7 @@
 {
     "name": "robotbit",
     "version": "0.3.5",
-    "description": "Extension for Kittenbot Robotbit",
+    "description": "BMSPOW-1255",
     "license": "MIT",
     "dependencies": {
         "core": "*",
